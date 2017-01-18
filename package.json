@@ -1,0 +1,23 @@
+{
+  "name": "sp-cors-middleware",
+  "version": "1.0.0",
+  "description": "Cors for superproject koa middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongwenxiao/sp-cors-middleware.git"
+  },
+  "keywords": [
+    "cors",
+    "koa-middleware"
+  ],
+  "author": "cs_victor@126.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dongwenxiao/sp-cors-middleware/issues"
+  },
+  "homepage": "https://github.com/dongwenxiao/sp-cors-middleware#readme"
+}
